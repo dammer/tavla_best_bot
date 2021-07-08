@@ -1,0 +1,11 @@
+en:
+  roll_arb_dice: Roll a die
+  wait_opp_arb_roll: Wait other player dice
+  roll_dices: Roll the dice!
+  wait_opp_roll: Wait other player dice
+  turn_lost_no_movies: No moves, turn is lost
+  wait_opp_turn: Wait other player turn
+  you_win: You are win %{score} score(s)!
+  you_lose: You are lose %{score} score(s)
+  adv_space: Advertising space
+  adv_offer: Dear %{first_name}, to get information please open bot url https://t.me/tavla\_best\_bot and send /advert command.

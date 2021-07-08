@@ -1,0 +1,13 @@
+tr:
+  roll_arb_dice: İlk hamle piyango - zar at
+  wait_opp_arb_roll: Diğer oyuncu zarını bekle
+  roll_dices: Zar at!
+  wait_opp_roll: Diğer oyuncu zarını bekle
+  turn_lost_no_movies: Hareket yok, hareket kayboldu
+  wait_opp_turn: Rakibin hamlesi
+  you_win: +{score} Puan kazandınız!
+  you_lose: Kaybettiniz %{score} puan
+  adv_space: Reklam alanı
+  adv_offer: Dear %{first_name}, to get information please open bot url https://t.me/tavla\_best\_bot and send /advert command.
+
+

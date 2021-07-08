@@ -1,0 +1,11 @@
+ru:
+  roll_arb_dice: Ваш бросок
+  wait_opp_arb_roll: Бросает соперник
+  roll_dices: Ваш бросок
+  wait_opp_roll: Бросает соперник
+  turn_lost_no_movies: Нет ходов. Переход хода
+  wait_opp_turn: Ход соперника
+  you_win: Победа! %{score} очков
+  you_lose: Проигрыш %{score} очков
+  adv_space: Рекламное пространство
+  adv_offer: Dear %{first_name}, to get information please open bot url https://t.me/tavla\_best\_bot and send /advert command.
