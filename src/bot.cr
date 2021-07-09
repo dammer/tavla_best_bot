@@ -1,7 +1,7 @@
 require "tourmaline/extra/routed_menu"
 
 GAME_NAME = "tavla"
-BOT_ID    = 1661115227_i64
+BOT_ID    = ENV["BOT_TOKEN"].to_i64
 
 module Tourmaline
   class LuckyPersistence < NilPersistence
