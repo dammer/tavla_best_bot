@@ -1,6 +1,6 @@
 # Tavla is a Turkish Backammon game for Telegram
 
-This code partially described im my [topic on Habr](https://habr.com/ru/post/567064/) (russian lang)
+This code partially described in my [topic on Habr](https://habr.com/ru/post/567064/) (russian lang)
 
 This is a project written using [Lucky](https://luckyframework.org). Enjoy!
 
@@ -15,7 +15,7 @@ This is a project written using [Lucky](https://luckyframework.org). Enjoy!
 
 After creating you own bot and adding game to him make .env file in root foler of project.
 ```yaml
-DB_USERNAME="tavls" 
+DB_USERNAME="tavls"
 GAME_KEY_SECRET="Ahcahth0"
 BOT_ID=YOU_BOT_ID
 BOT_TOKEN="YOU_BOT_TOKEN"
