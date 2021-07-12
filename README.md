@@ -1,5 +1,7 @@
 # Tavla is a Turkish Backammon game for Telegram
 
+This code partially described im my [topic on Habr](https://habr.com/ru/post/567064/) (russian lang)
+
 This is a project written using [Lucky](https://luckyframework.org). Enjoy!
 
 ### Setting up the project
